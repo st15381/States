@@ -1,0 +1,16 @@
+h1 {
+	color: purple;
+	font-size: 50px;
+	font-family: 'Georgia', serif;
+}
+h2 {
+	color: orange;
+}
+#shiny {
+	color: blue;
+}
+img {
+	width: 80%;
+	margin-left: 10%;
+	border: 5px;
+}
